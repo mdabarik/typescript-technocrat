@@ -18,8 +18,6 @@
         role: string
     }
 
-
-
     const user1 : UserWithRole2 = {
         name: 'Persian',
         age: 100,
